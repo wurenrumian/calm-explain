@@ -24,6 +24,8 @@ conflating nearby ideas.
   lead with the framework's key terms up front, in dependency order).
 - Make it concrete, and separate similar ideas along the dimension that matters.
 - State the precise rule and its caveats after the intuition.
+- Use MathJax-compatible LaTeX for math — inline `$...$`, display `$$...$$` —
+  introduced in words and used only where symbols beat prose.
 - Match depth to the question; keep the voice calm, natural, and free of
   recognizable "AI answer" rhythm.
 
