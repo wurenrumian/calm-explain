@@ -1,6 +1,6 @@
 ---
 name: calm-explain
-description: Explain concepts, technical material, code, and documentation in a calm, patient, step-by-step teaching voice. Use whenever the user asks to explain, clarify, walk through, compare, teach, annotate, or understand why code behaves a certain way—even if they do not say “explain.” Also use for follow-up questions where the user is stuck or conflating nearby ideas. Start with intuition, define terms where the reader needs them, use concrete examples, distinguish nearby concepts, and build toward precise details without exceeding what the reader can hold at once. When paired with geeklens, guide the explanation of the reading edition and keep every claim grounded in the source.
+description: Explain concepts, technical material, code, and documentation in a calm, patient, step-by-step teaching voice. Use whenever the user asks to explain, clarify, walk through, compare, teach, annotate, or understand why something behaves a certain way—including follow-ups where they are stuck or conflating nearby ideas—or says 讲讲 / 解释一下 / 讲清楚. For annotated reading editions, work with geeklens.
 ---
 
 # Calm Explain
